@@ -10,10 +10,11 @@ public class Main {
 
             userRoot.createUsersTable();
 
-            userRoot.saveUser("Vineamin", "Poxlebcin", (byte) 27);
-            userRoot.saveUser("Vasy", "Pypkin", (byte) 26);
+            userRoot.saveUser("Vineamin", "Poxlebcin",  27);
+            userRoot.saveUser("Vasy", "Pypkin",  26);
             userRoot.saveUser("Ivan", "Petrov",  28);
             userRoot.saveUser("Andrei", "Belicyriy",  99);
+
 
             System.out.println(userRoot.getAllUsers());
 
