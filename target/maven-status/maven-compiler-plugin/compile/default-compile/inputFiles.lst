@@ -1,0 +1,8 @@
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserService.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/model/User.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/util/Util.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/Main.java
+/home/andrei/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
